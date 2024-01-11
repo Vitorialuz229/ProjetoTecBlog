@@ -16,7 +16,7 @@ body {
 
 #header {
     background-color: #2d6d8e;
-    padding: 15px;
+    padding: 35px;
     text-align: center;
 }
 
@@ -27,34 +27,56 @@ body {
 #primary { 
     width: 1300px;
     margin:0 auto;
+    padding: 20px;
 }
 
-.content, .post-Area { 
+.content { 
     background: #6990cf;
 }
 
 .content { 
-    width: 240px;
+    width: 400px;
     float: right;
 }
 
 .post { 
     padding: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     background: #fff;
+}
+
+.content-side { 
+    background-color: #ffff;
+    padding: 15px;
+    margin-bottom: 25px;
+}
+
+.post-side { 
+    font-size: 0.8em;
+    padding: 5px;
 }
 
 .post-Area { 
     width: 860px;
     float: left;
+
 }
 
-footer { 
-    clear: both;
-    text-align: center;
-    padding: 15px;
-    background: #ccc;
+/* 
+**** Formatações do subtitúlo ****
+*/
+
+.Date {
+    color:E8E6E3;
+    font: roboto, fallback-font;
+    font-size: 0.8em;
 }
+
+.autor { 
+    color: #9D9488;
+    margin-left: 12px;
+}
+
 /* 
 **** Formatações Gerais ****
 */
@@ -62,25 +84,66 @@ footer {
 h1 { 
     color: #4e4e4e;
     font-size: 2.5em;
+    padding-bottom: 10px;
 }
 
+h2 { 
+    color:#245772;
+    font-size: 2em;
+}
+
+h3 { 
+    padding-top: 10px;
+}
+
+p{ 
+    padding-top: 20px;
+}
+
+.post-recent { 
+    color:#4F5650; 
+    background: #ccc;
+    padding: 5px;
+}
 .write { 
     color: white;
 }
 
 /*
-**** Formatação do menu ****
+**** Formatação dos links ****
 */
 
 a { 
     text-decoration: none;
+    color:#245772;
 }
-a:link, a:visited { 
-    color: #fff;
-    padding: 8px 12px ;
+
+a:link, a:visited {
+    color:#245772;
 }
 
 a:hover { 
-    color:#2d6d8e;
-    background: #fff;
+    text-decoration: underline;
+}
+
+#header a:link, #header a:visited { 
+    color:#ffff;
+    padding: 8px 12px;
+    text-decoration: none;
+}
+
+#header a:hover { 
+    color:#245772;
+    background: #ffff;
+    text-decoration: none;
+}
+
+/*
+**** Formatação do rodapé ****
+*/
+footer { 
+    clear: both;
+    text-align: center;
+    background: #ccc;
+    padding: 15px;
 }
