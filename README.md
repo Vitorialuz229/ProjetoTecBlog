@@ -9,7 +9,7 @@ Welcome to the official TecBlog repository, your destination to explore the late
 
 # Technologies Used
 * HTML5
-*CSS3
+* CSS3
 <br>
 <br>
 <br>
