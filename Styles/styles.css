@@ -31,10 +31,6 @@ body {
 }
 
 .content { 
-    background: #6990cf;
-}
-
-.content { 
     width: 400px;
     float: right;
 }
