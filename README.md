@@ -1,4 +1,4 @@
-# TecBlog - Technology Blog EN | PT
+# TecBlog: Technology Blog - EN | PT
 
 Welcome to the official TecBlog repository, your destination to explore the latest news and trends in the world of technology. This repository contains the source code and resources associated with the blog.
 
@@ -35,7 +35,7 @@ Welcome to the official TecBlog repository, your destination to explore the late
 <br>
 
 
-# TecBlog - Blog de Tecnologia EN | PT
+# TecBlog: Blog de Tecnologia - EN | PT
 
 Bem-vindo ao repositório oficial do TecBlog, o seu destino para explorar as últimas novidades e tendências no mundo da tecnologia. Este repositório contém o código-fonte e os recursos associados ao blog.
 
