@@ -1,8 +1,8 @@
 # TecBlog - Technology Blog :: EN | PT
 
 Welcome to the official TecBlog repository, your destination to explore the latest news and trends in the world of technology. This repository contains the source code and resources associated with the blog.
+![Tela de Inicio do Blog](https://github.com/Vitorialuz229/ProjetoTecBlog/assets/110250731/3d41f795-1ff0-4356-855a-f005962eeda8)
 
-<img width="930" alt="Captura de tela 2024-01-16 080528" src="https://github.com/Vitorialuz229/ProjetoTecBlog/assets/110250731/9a118e4d-4f9e-4382-baac-e214527476fa">
 
 # Repository Structure
 * index.html: The main file that contains the TecBlog HTML structure.
@@ -40,6 +40,7 @@ Welcome to the official TecBlog repository, your destination to explore the late
 # TecBlog - Blog de Tecnologia :: EN | PT
 
 Bem-vindo ao repositório oficial do TecBlog, o seu destino para explorar as últimas novidades e tendências no mundo da tecnologia. Este repositório contém o código-fonte e os recursos associados ao blog.
+![Tela de Inicio do Blog](https://github.com/Vitorialuz229/ProjetoTecBlog/assets/110250731/3d41f795-1ff0-4356-855a-f005962eeda8)
 
 # Estrutura do Repositório
 * index.html: O arquivo principal que contém a estrutura HTML do TecBlog.
