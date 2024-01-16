@@ -2,6 +2,8 @@
 
 Welcome to the official TecBlog repository, your destination to explore the latest news and trends in the world of technology. This repository contains the source code and resources associated with the blog.
 
+<img width="930" alt="Captura de tela 2024-01-16 080528" src="https://github.com/Vitorialuz229/ProjetoTecBlog/assets/110250731/9a118e4d-4f9e-4382-baac-e214527476fa">
+
 # Repository Structure
 * index.html: The main file that contains the TecBlog HTML structure.
 * Styles/: Directory containing the CSS style files for the blog's appearance.
